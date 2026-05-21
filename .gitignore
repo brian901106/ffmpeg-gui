@@ -1,0 +1,6 @@
+# PyInstaller 建置產物
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
